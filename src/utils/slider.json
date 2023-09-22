@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Daily men's collection",
+    "price": "299",
+    "detail": "A nice collection of shoes, purses jeans and other for daily use.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Women's Stylish Purses",
+    "price": "359",
+    "detail": "Classy purses for every occasion. They are multipurpose purses with sleek looks.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Classic men's Collection",
+    "price": "499",
+    "detail": "Offixe collection for men's, So that you can stay ready for every meeting and work.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Daily men's collection",
+    "price": "299",
+    "detail": "A nice collection of shoes, purses jeans and other for daily use.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Women's Stylish Purses",
+    "price": "359",
+    "detail": "Classy purses for every occasion. They are multipurpose purses with sleek looks.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Classic men's Collection",
+    "price": "499",
+    "detail": "Offixe collection for men's, So that you can stay ready for every meeting and work.",
+    "image": "./r3.png"
+  }
+  
+]
